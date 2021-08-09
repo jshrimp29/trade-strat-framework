@@ -1,0 +1,1 @@
+CREATE DATABASE `algo_trading` /*!40100 DEFAULT CHARACTER SET latin1 */;
